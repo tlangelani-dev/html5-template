@@ -7,8 +7,11 @@
 </head>
 <body>
     
-    <div class="wrapper">
+    <div class="wrapper box-shadow">
         <h1>HTML5 Template</h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet unde ipsa laudantium facilis placeat obcaecati quam magnam quibusdam atque non provident sed, recusandae temporibus natus cumque saepe nisi! Adipisci, iste.
+        </p>
     </div><!-- end .wrapper -->
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

@@ -6,4 +6,19 @@
 html,
 body {
     font-family: 'Josefin Sans', sans-serif;
+    background-color: #ededed;
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper {
+    width: 900px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 3px;
+}
+.box-shadow {
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
 }
