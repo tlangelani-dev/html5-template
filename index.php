@@ -9,7 +9,7 @@
 <body>
     
     <div class="wrapper box-shadow">
-        <h1>HTML5 Template</h1>
+        <h1>HTML5 Template v1.1</h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet unde ipsa laudantium facilis placeat obcaecati quam magnam quibusdam atque non provident sed, recusandae temporibus natus cumque saepe nisi! Adipisci, iste.
         </p>
